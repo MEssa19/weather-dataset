@@ -1,9 +1,9 @@
-# weather-dataset
+# Global weather-dataset
 
-Global Weather Repository: Analysis and Forecasting
+# Global Weather Repository: Analysis and Forecasting
 This project performs Exploratory Data Analysis (EDA) and builds a predictive model using the Global Weather Repository dataset. The goal is to understand global weather patterns and forecast temperatures based on geographical and temporal features.
 
-Project Overview
+# Project Overview
 Data Cleaning: Handled datetime conversions and checked for missing values/duplicates.
 Exploratory Data Analysis (EDA):
 Distribution analysis of temperature and precipitation.
@@ -22,9 +22,9 @@ Requirements
 To run the analysis locally, ensure you have the following Python libraries installed:
 
 pip install pandas numpy matplotlib seaborn scikit-learn
-How to Use
+# How to Use
 Clone the repository.
 Place the GlobalWeatherRepository.csv in the project directory.
 Run the Jupyter/Colab notebook to reproduce the analysis and model results.
-Results
+# Results
 The model successfully identifies the strong relationship between location/time and temperature, providing a robust baseline for global weather forecasting.
